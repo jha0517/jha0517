@@ -3,31 +3,32 @@ Also known as Fundamentals, Foundations, Inner Circle.
 
 ### 🌸 Circle 0️
 
-| 🖥️  &nbsp; [libft](https://github.com/jha0517/Circle00_libft) : Collection of custom C functions. |
+| 🖥️  &nbsp; [libft](https://github.com/jha0517/Circle00_libft)|
 |:--|
 
 ### 🌸 Circle 1
 
 
-| 🖥️  &nbsp; [get_next_line](https://github.com/jha0517/Circle01_Get_next_line) : Create a function that reads a file line by line and returns that line to the caller.|
+| 🖥️  &nbsp; [get_next_line](https://github.com/jha0517/Circle01_Get_next_line)|
 |:--|
 
-| :keyboard:  &nbsp; [ft_printf](https://github.com/jha0517/Circle01_Ft_printf) : Recreation of the standard printf function in C. | 
+| :keyboard:  &nbsp; [ft_printf](https://github.com/jha0517/Circle01_Ft_printf)| 
 |:--|
 
-| 🌑  &nbsp; [Born2beroot](https://github.com/jha0517/Circle01_Born2beroot) : Set up a virtual machine using a Debian 10 and configure it. |
+| 🌑  &nbsp; [Born2beroot](https://github.com/jha0517/Circle01_Born2beroot)|
 |:--|
 
-### 🌸 Circle 2
+
+### 🌸 Circle 1
 
 
-| 🖥️  &nbsp; [get_next_line](https://github.com/jha0517/Circle01_Get_next_line) : Create a function that reads a file line by line and returns that line to the caller.|
+| 🖥️  &nbsp; [get_next_line](https://github.com/jha0517/Circle01_Get_next_line)|
 |:--|
 
-| :keyboard:  &nbsp; [ft_printf](https://github.com/jha0517/Circle01_Ft_printf) : Recreation of the standard printf function in C. | 
+| :keyboard:  &nbsp; [ft_printf](https://github.com/jha0517/Circle01_Ft_printf)| 
 |:--|
 
-| 🌑  &nbsp; [Born2beroot](https://github.com/jha0517/Circle01_Born2beroot) : Set up a virtual machine using a Debian 10 and configure it. |
+| 🌑  &nbsp; [Born2beroot](https://github.com/jha0517/Circle01_Born2beroot)|
 |:--|
 
 <!--
